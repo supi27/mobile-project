@@ -1,0 +1,27 @@
+
+# Laravel
+laravel/.env
+laravel/.env.*
+!laravel/.env.example
+laravel/vendor/
+laravel/node_modules/
+laravel/storage/*.key
+laravel/storage/logs/*
+laravel/bootstrap/cache/*
+
+# Flutter
+flutter/.dart_tool/
+flutter/build/
+flutter/.flutter-plugins
+flutter/.flutter-plugins-dependencies
+flutter/.packages
+flutter/.pub-cache/
+flutter/ios/Flutter/.last_build_id
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
